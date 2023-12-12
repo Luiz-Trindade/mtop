@@ -1,3 +1,5 @@
+<image src="https://www.gnu.org/graphics/gplv3-127x51.png">
+
 <h1>Minimal Top App Written In Python!</h1>
 
 <image src="mtop.png">
