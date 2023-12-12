@@ -7,7 +7,7 @@
 <h3>
 That Program Provides The CPU, RAM and UPTIME values.
 <br>
-It's for siple monitoring basic resources.
+It's for simple monitoring basic resources.
 <br>
 I can upgrade later, maybe.
 </h3>
